@@ -1,3 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/t6lx1c0mcugxx8j6/branch/master?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-event/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/9ymvfb08dww9287i/branch/master?svg=true)](https://ci.appveyor.com/project/alex6594/jsehw3/branch/master)
 
-https://redhead80.github.io/ahj-event/
